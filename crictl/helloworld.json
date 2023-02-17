@@ -2,14 +2,10 @@
     "metadata": {
         "name": "helloworld"
     },
-    "image":{
+    "image": {
         "image": "gcr.io/knative-samples/helloworld-go"
     },
-    "command": [
-		"/bin/ls"
-	],
-    "log_path":"helloworld.0.log",
-    "linux": {
-    }
-  }
-  
+    "command": [],
+    "log_path": "helloworld.0.log",
+    "linux": {}
+}
