@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "name": "nginx"
+  },
+  "image": {
+    "image": "nginx"
+  },
+  "command": [
+    "nginx"
+  ],
+  "envs": [
+    {
+      "key": "PATH",
+      "value": "/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin"
+    }
+  ],
+  "log_path": "nginx.0.log",
+  "linux": {}
+}
