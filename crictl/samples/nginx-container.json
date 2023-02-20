@@ -1,0 +1,15 @@
+{
+    "metadata": {
+        "name": "nginx"
+    },
+    "image":{
+        "image": "docker.io/library/nginx"
+    },
+    "command": [
+        "nginx"
+    ],
+    "log_path":"nginx.0.log",
+    "linux": {
+    }
+  }
+  

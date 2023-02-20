@@ -1,0 +1,11 @@
+{
+    "metadata": {
+        "name": "helloworld"
+    },
+    "image": {
+        "image": "gcr.io/knative-samples/helloworld-go"
+    },
+    "command": [],
+    "log_path": "helloworld.0.log",
+    "linux": {}
+}

@@ -1,0 +1,12 @@
+{
+    "metadata": {
+        "name": "nginx-sandbox",
+        "namespace": "default",
+        "attempt": 1,
+        "uid": "lhkd83djaidwnduwk123456"
+    },
+    "annotations": {"snapshot-imageref":"nginx"},
+    "log_directory": "/tmp",
+    "linux": {
+    }
+}
