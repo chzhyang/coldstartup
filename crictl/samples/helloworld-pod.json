@@ -1,0 +1,10 @@
+{
+    "metadata": {
+        "name": "helloworld-sandbox",
+        "namespace": "default",
+        "attempt": 1,
+        "uid": "helloworld-sandbox-uid-0"
+    },
+    "log_directory": "/tmp",
+    "linux": {}
+}
